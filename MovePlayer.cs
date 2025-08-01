@@ -16,7 +16,7 @@ public class MovePlayer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        myIntroduction = "My name is Professor Jordan";
+        myIntroduction = "My name is Jordan";
         myQuote = "Puyo!";
         moveX = 5f;
         moveY = 0;
